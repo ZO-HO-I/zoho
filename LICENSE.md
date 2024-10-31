@@ -1,1 +1,1 @@
-Free license
+Free license GPL v3
